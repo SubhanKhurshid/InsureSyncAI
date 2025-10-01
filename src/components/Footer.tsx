@@ -14,7 +14,7 @@ const Footer = () => {
                   <path d="M12 2L20 7V17L12 22L4 17V7L12 2Z" fill="black" />
                 </svg>
               </div>
-              <span className="text-xl font-bold text-white">DocuPilot</span>
+              <span className="text-xl font-bold text-white">InsureSync AI</span>
             </div>
             <p className="text-gray-400 mb-6 max-w-md">
               Your case, your settlement—AI powered. Maximize your personal injury settlements with our comprehensive AI-driven tools and expert guidance.
@@ -76,7 +76,7 @@ const Footer = () => {
         <div className="border-t border-[#222222] mt-8 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm mb-4 md:mb-0">
-              © {new Date().getFullYear()} DocuPilot. All rights reserved.
+              © {new Date().getFullYear()} InsureSync AI. All rights reserved.
             </p>
             <div className="text-gray-400 text-sm">
               <p>

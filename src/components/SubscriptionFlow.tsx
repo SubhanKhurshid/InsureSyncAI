@@ -75,7 +75,7 @@ const SubscriptionFlow: React.FC<SubscriptionFlowProps> = ({ onSuccess, onCancel
   const steps = [
     {
       title: 'Create Account',
-      description: 'Set up your DocuPilot account',
+      description: 'Set up your InsureSync AI account',
       icon: <CheckIcon className="h-6 w-6" />,
     },
     {
@@ -96,7 +96,7 @@ const SubscriptionFlow: React.FC<SubscriptionFlowProps> = ({ onSuccess, onCancel
         {/* Header */}
         <div className="p-6 border-b border-gray-200">
           <h2 className="text-2xl font-bold text-gray-900 mb-2">Complete Your Subscription</h2>
-          <p className="text-gray-600">Get started with DocuPilot in just a few steps</p>
+          <p className="text-gray-600">Get started with InsureSync AI in just a few steps</p>
         </div>
 
         {/* Progress Steps */}
@@ -139,7 +139,7 @@ const SubscriptionFlow: React.FC<SubscriptionFlowProps> = ({ onSuccess, onCancel
                 <CheckIcon className="h-8 w-8 text-white" />
               </div>
               <h3 className="text-xl font-semibold text-gray-900 mb-2">
-                Welcome to DocuPilot!
+                Welcome to InsureSync AI!
               </h3>
               <p className="text-gray-600 mb-6">
                 You're about to start your 7-day free trial. No credit card required until your trial ends.
@@ -231,7 +231,7 @@ const SubscriptionFlow: React.FC<SubscriptionFlowProps> = ({ onSuccess, onCancel
                 <ShieldCheckIcon className="h-8 w-8 text-white" />
               </div>
               <h3 className="text-xl font-semibold text-gray-900 mb-2">
-                Welcome to DocuPilot!
+                Welcome to InsureSync AI!
               </h3>
               <p className="text-gray-600 mb-6">
                 Your subscription is now active. You can start using all features immediately.

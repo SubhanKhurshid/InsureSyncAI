@@ -105,7 +105,7 @@ const PrivacyPolicy = () => {
         "You can request a copy of all data we have collected about you.",
         "You may request correction of inaccurate or incomplete information.",
         "You can request deletion of your account and associated data.",
-        "Contact us at privacy@docupilot.com for any privacy-related requests."
+        "Contact us at privacy@insuresync-ai.com for any privacy-related requests."
       ]
     },
     {
@@ -217,7 +217,7 @@ const PrivacyPolicy = () => {
                 className="text-xl text-gray-300 font-normal max-w-3xl mx-auto leading-relaxed"
                 variants={itemVariants}
               >
-                At DocuPilot, we value your privacy and are committed to protecting your personal information. 
+                At InsureSync AI, we value your privacy and are committed to protecting your personal information. 
                 This Privacy Policy explains how we collect, use, and safeguard your data.
               </motion.p>
             </motion.div>

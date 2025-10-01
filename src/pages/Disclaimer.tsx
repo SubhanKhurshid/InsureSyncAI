@@ -38,12 +38,12 @@ const Disclaimer = () => {
     {
       title: "Nature of Our Service",
       icon: <BookOpenIcon className="h-5 w-5" />,
-      content: "DocuPilot provides AI-powered tools and resources designed to help individuals organize and manage their personal injury claims independently. We offer educational content, document templates, and guidance tools, but we do not provide legal advice or representation."
+      content: "InsureSync AI provides AI-powered tools and resources designed to help individuals organize and manage their personal injury claims independently. We offer educational content, document templates, and guidance tools, but we do not provide legal advice or representation."
     },
     {
       title: "No Attorney-Client Relationship",
       icon: <UserIcon className="h-5 w-5" />,
-      content: "Use of this website and its tools does not establish an attorney-client relationship between you and DocuPilot or any affiliated parties. We are not your lawyers, and any information you provide through our platform is not protected by attorney-client privilege."
+      content: "Use of this website and its tools does not establish an attorney-client relationship between you and InsureSync AI or any affiliated parties. We are not your lawyers, and any information you provide through our platform is not protected by attorney-client privilege."
     },
     {
       title: "Limitation of Liability",
@@ -164,7 +164,7 @@ const Disclaimer = () => {
                 className="text-xl text-gray-300 font-normal max-w-3xl mx-auto leading-relaxed"
                 variants={itemVariants}
               >
-                Please read this disclaimer carefully before using DocuPilot's services. 
+                Please read this disclaimer carefully before using InsureSync AI's services. 
                 This information is crucial for understanding the scope and limitations of our platform.
               </motion.p>
             </motion.div>

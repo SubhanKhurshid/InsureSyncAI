@@ -232,7 +232,7 @@ const DashboardChat: React.FC<DashboardChatProps> = ({
               <SparklesIcon className="h-10 w-10 text-black" />
             </motion.div>
             <h3 className="text-2xl font-semibold text-white mb-3">
-              Welcome to DocuPilot AI
+              Welcome to InsureSync AI
             </h3>
             <p className="text-gray-300 mb-8 max-w-md mx-auto">
               I'm here to help you with your personal injury case. Describe your injury and I'll guide you through the process.

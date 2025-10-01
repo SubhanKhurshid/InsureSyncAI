@@ -283,7 +283,7 @@ const PaymentModal: React.FC<PaymentModalProps> = ({
               <div className="flex items-center justify-between">
                 <div>
                   <h2 className="text-2xl font-bold text-gray-900">Complete Your Subscription</h2>
-                  <p className="text-gray-600">Get started with DocuPilot</p>
+                  <p className="text-gray-600">Get started with InsureSync AI</p>
                 </div>
                 <button
                   onClick={onClose}

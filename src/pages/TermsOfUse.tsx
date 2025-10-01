@@ -56,7 +56,7 @@ const TermsOfUse = () => {
     {
       title: "5. Intellectual Property",
       icon: <ShieldCheckIcon className="h-5 w-5" />,
-      content: "All content, tools, and materials provided on this website are owned by DocuPilot and protected by copyright and other intellectual property laws. You may not copy, distribute, or modify our content without permission."
+      content: "All content, tools, and materials provided on this website are owned by InsureSync AI and protected by copyright and other intellectual property laws. You may not copy, distribute, or modify our content without permission."
     },
     {
       title: "6. Changes to Terms",
@@ -162,7 +162,7 @@ const TermsOfUse = () => {
                 className="text-xl text-gray-300 font-normal max-w-3xl mx-auto leading-relaxed"
                 variants={itemVariants}
               >
-                Welcome to DocuPilot. By accessing or using our website, you agree to be bound by the following Terms of Use. 
+                Welcome to InsureSync AI. By accessing or using our website, you agree to be bound by the following Terms of Use. 
                 Please read them carefully. If you do not agree, you should not use our website.
               </motion.p>
             </motion.div>
@@ -181,7 +181,7 @@ const TermsOfUse = () => {
                 <div>
                   <h3 className="text-lg font-semibold text-white mb-2">Important Legal Notice</h3>
                   <p className="text-gray-300 font-normal leading-relaxed">
-                    <strong className="text-red-400">DocuPilot is not a law firm</strong> and does not provide legal advice. 
+                    <strong className="text-red-400">InsureSync AI is not a law firm</strong> and does not provide legal advice. 
                     We use AI tools to supply self-help information and organizational forms for personal injury claims. 
                     Using this site does not create an attorney-client relationship. For legal advice or representation, 
                     consult a licensed attorney.

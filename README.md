@@ -1,6 +1,6 @@
-# DocuPilot Frontend
+# InsureSync AI Frontend
 
-Modern React frontend for the DocuPilot AI personal injury settlement platform.
+Modern React frontend for the InsureSync AI personal injury settlement platform.
 
 ## Features
 
@@ -114,7 +114,7 @@ VITE_CLERK_PUBLISHABLE_KEY=pk_test_your_clerk_publishable_key_here
 
 ## API Integration
 
-The frontend integrates with the DocuPilot backend API:
+The frontend integrates with the InsureSync AI backend API:
 
 ### Chat Endpoints
 - `POST /chat` - Send messages to AI assistant
@@ -219,4 +219,4 @@ Set the following environment variables in production:
 
 ## License
 
-Private - DocuPilot Platform
+Private - InsureSync AI Platform

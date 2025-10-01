@@ -23,7 +23,7 @@ const HomePage = () => {
   const { hasActiveSubscription } = useSubscription();
   const [messages, setMessages] = useState([{
     id: 1,
-    text: "Hello! I'm DocuPilot AI. I can help you maximize your personal injury settlement.",
+    text: "Hello! I'm InsureSync AI. I can help you maximize your personal injury settlement.",
     isUser: false
   }, {
     id: 2,
@@ -338,7 +338,7 @@ const HomePage = () => {
                   </motion.div>
                 </div>
 
-                {/* DocuPilot */}
+                {/* InsureSync AI */}
                 <motion.div
                   className="text-center group"
                   whileHover={{ y: -10 }}
@@ -347,7 +347,7 @@ const HomePage = () => {
                   <div className="w-20 h-20 mx-auto mb-6 rounded-full border-2 border-[#8dff2d]/30 bg-[#8dff2d]/10 flex items-center justify-center backdrop-blur-sm">
                     <div className="text-3xl">🤖</div>
                   </div>
-                  <h3 className="text-xl font-semibold mb-4 text-[#8dff2d]">DocuPilot AI</h3>
+                  <h3 className="text-xl font-semibold mb-4 text-[#8dff2d]">InsureSync AI</h3>
                   <ul className="space-y-3 text-gray-200 font-medium">
                     <li className="flex items-center justify-center gap-2">
                       <div className="w-2 h-2 bg-[#8dff2d] rounded-full" />
@@ -514,7 +514,7 @@ const HomePage = () => {
                   ))}
                 </div>
                 <p className="text-lg text-gray-200 mb-8 font-normal italic leading-relaxed">
-                  "DocuPilot's AI guidance helped me secure a $62,000 settlement for my workplace injury.
+                  "InsureSync AI's AI guidance helped me secure a $62,000 settlement for my workplace injury.
                   I saved over $20,000 in legal fees and had complete control over my case."
                 </p>
                 <div className="text-gray-300 font-medium">

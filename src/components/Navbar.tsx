@@ -46,7 +46,7 @@ const Navbar = () => {
               <path d="M12 2L20 7V17L12 22L4 17V7L12 2Z" fill="black" />
             </svg>
           </div>
-          <span className="text-xl font-bold text-white">DocuPilot</span>
+          <span className="text-xl font-bold text-white">InsureSync AI</span>
         </Link>
 
         {/* Desktop Navigation */}

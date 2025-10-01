@@ -67,7 +67,7 @@ const DashboardSidebar: React.FC<DashboardSidebarProps> = ({
               <div className="w-8 h-8 rounded-lg bg-[#8dff2d] flex items-center justify-center">
                 <SparklesIcon className="h-5 w-5 text-black" />
               </div>
-              <span className="font-semibold text-white">DocuPilot</span>
+              <span className="font-semibold text-white">InsureSync AI</span>
             </div>
           )}
           <button

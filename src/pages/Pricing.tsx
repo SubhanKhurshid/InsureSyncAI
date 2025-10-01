@@ -406,7 +406,7 @@ const Pricing = () => {
                   Frequently asked questions
                 </h2>
                 <p className="text-xl text-gray-300 font-normal">
-                  Everything you need to know about DocuPilot
+                  Everything you need to know about InsureSync AI
                 </p>
               </div>
 
@@ -506,7 +506,7 @@ const Pricing = () => {
                 Ready to maximize your settlement?
               </h2>
               <p className="text-xl text-gray-300 mb-12 font-normal leading-relaxed">
-                Join thousands who have successfully handled their personal injury claims with DocuPilot's AI guidance.
+                Join thousands who have successfully handled their personal injury claims with InsureSync AI's AI guidance.
               </p>
 
               <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">

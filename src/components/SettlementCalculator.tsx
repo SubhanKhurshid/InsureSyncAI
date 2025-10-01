@@ -373,7 +373,7 @@ const SettlementCalculator: React.FC = () => {
                   whileHover={{ scale: 1.02 }}
                   whileTap={{ scale: 0.98 }}
                 >
-                  Get Started with DocuPilot AI
+                  Get Started with InsureSync AI
                 </motion.button>
               </div>
             </motion.div>

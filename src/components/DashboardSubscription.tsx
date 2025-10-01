@@ -184,7 +184,7 @@ const DashboardSubscription: React.FC<DashboardSubscriptionProps> = ({ userId })
         <div className="flex items-center justify-between">
           <div>
             <h1 className="text-3xl font-bold text-white mb-2">Subscription Management</h1>
-            <p className="text-gray-400">Manage your DocuPilot subscription and billing</p>
+            <p className="text-gray-400">Manage your InsureSync AI subscription and billing</p>
           </div>
           <button
             onClick={handleRefreshSubscription}
@@ -353,7 +353,7 @@ const DashboardSubscription: React.FC<DashboardSubscriptionProps> = ({ userId })
           </p>
           <div className="flex flex-wrap gap-3">
             <a
-              href="mailto:support@docupilot.com"
+              href="mailto:support@insuresync-ai.com"
               className="px-6 py-3 bg-gray-800 text-gray-300 rounded-lg hover:bg-gray-700 transition-colors font-medium"
               aria-label="Contact support"
             >
