@@ -168,6 +168,7 @@ class ApiClient {
         throw new Error(errorData.detail || `HTTP error! status: ${response.status}`);
       }
 
+      
       return response.json();
     } catch (error) {
       // If the request fails and we're using the primary URL, try fallback
