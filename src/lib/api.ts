@@ -108,7 +108,7 @@ class ApiClient {
 
   private async checkUrlHealth(url: string): Promise<boolean> {
     try {
-      const response = await fetch(`${url}/health`, {
+      const response = await fetch(`${url}/api/health`, {
         method: 'GET',
         timeout: 5000, // 5 second timeout
       } as RequestInit);
